@@ -1,0 +1,11 @@
+.git/
+.gitignore
+.packwizignore
+
+README.md
+CHANGELOG.md
+MIGRATION.md
+docs/
+
+*.mrpack
+*.zip

@@ -1,0 +1,11 @@
+*.jar
+*.mrpack
+*.zip
+
+run/
+server/
+backups/
+
+.DS_Store
+.idea/
+.vscode/

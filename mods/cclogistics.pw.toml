@@ -1,0 +1,13 @@
+name = "Create: Colony Logistics"
+filename = "create_colony_logistics-1.3.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "42002cdce8709ba7316a168d7428d3221176df84"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8807995
+project-id = 1466643
