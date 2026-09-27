@@ -13,6 +13,10 @@ file = "kubejs/server_scripts/balancing/replacements.js"
 hash = "0bd907dd4f7ffd3ffdf907ce80c8bb1e960060d365ec46a722f2037b5d4f1696"
 
 [[files]]
+file = "kubejs/server_scripts/balancing/silent_gear_gates.js"
+hash = "f624ed9a3e4367af218769bfd4772d825e4a6d6275401b462386c13c5881d87c"
+
+[[files]]
 file = "kubejs/server_scripts/recipes/create_farmers_delight.js"
 hash = "c3cf448f78ff07b1c883010b46eb453e179881fd114681e205187e7b6c665b23"
 
