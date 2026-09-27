@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.1 — servidor e pré-geração
+
+- Adicionado Chunky 1.4.23 para pré-geração controlada no servidor.
+
 ## 1.0.0 — primeira versão estável
 
 - Pack fixado em Minecraft 1.21.1 e NeoForge 21.1.250.
