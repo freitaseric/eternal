@@ -1,6 +1,34 @@
 hash-format = "sha256"
 
 [[files]]
+file = "README.md"
+hash = "2fb330eb0d608f9c6231e5e4643d56ddae8678f1b82312d8c7bb23eaba135b23"
+
+[[files]]
+file = "docs/ARCHITECTURE.md"
+hash = "e1a0ff3296d1b1e7cda4010261e55c3a7686e57141aa80d030c77980969f7744"
+
+[[files]]
+file = "docs/TESTING.md"
+hash = "bd0661877978e053b19307b286d3d74935dc71d48d165812eed44cb0907b68d2"
+
+[[files]]
+file = "kubejs/server_scripts/00_eternal.js"
+hash = "db669a7285965451509d93be370b3e6c27c3672c4ae2a833641561bd08d9de65"
+
+[[files]]
+file = "kubejs/server_scripts/balancing/disabled_recipes.js"
+hash = "38bcfad4566e57decc56f72fa646e81f362ec85f71c959060a5f6518d08b17a4"
+
+[[files]]
+file = "kubejs/server_scripts/balancing/replacements.js"
+hash = "0bd907dd4f7ffd3ffdf907ce80c8bb1e960060d365ec46a722f2037b5d4f1696"
+
+[[files]]
+file = "kubejs/server_scripts/recipes/create_farmers_delight.js"
+hash = "c3cf448f78ff07b1c883010b46eb453e179881fd114681e205187e7b6c665b23"
+
+[[files]]
 file = "mods/athena-ctm.pw.toml"
 hash = "f54cf71372645810ce22b0ba68e706139565437150e4cfd22bde4c14606099c4"
 metafile = true
@@ -28,6 +56,11 @@ metafile = true
 [[files]]
 file = "mods/chipped.pw.toml"
 hash = "24c6c3fe917ffbcef04e788dec3e003d0ed03433bc00f9cf4f23fe9b85636aa7"
+metafile = true
+
+[[files]]
+file = "mods/controlify.pw.toml"
+hash = "b2f03025138fd7b53ed254588ca8e1457eb916ac20cf06b02d3ddc3bbd9561b8"
 metafile = true
 
 [[files]]
@@ -162,10 +195,15 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "64670072fa3b4db4a721769dd3d66a2865daac01c9a2480b9561675b1e9e9737"
+hash = "8ed3e895470dd147a57481100de34488b57a12d777a3ac0441e5d8d902d4b50c"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "f8cc300d53ae8bf71d77124e6c46a5e85fe31654b39c5d73a1652a4d9c404af4"
+hash = "f139ff8d596a050f140c50a54866bbbd454833e4014227986a716c39a7dbe535"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "1f47c89af2b4c6ab92735d68e58412d0b369f7035818e58d02f5982f7fc1186a"
 metafile = true
