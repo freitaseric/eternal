@@ -42,7 +42,7 @@ metafile = true
 
 [[files]]
 file = "mods/cclogistics.pw.toml"
-hash = "89d79d9cd809689d9340f2796ee430456e36f032ff410b302feccc59ca534c58"
+hash = "0cb153a9f0cb7b44246e90766d0d44f09b13d71bfa09b2da0e518e656e5dfcc6"
 metafile = true
 
 [[files]]

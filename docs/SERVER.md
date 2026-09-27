@@ -2,6 +2,10 @@
 
 O servidor deve usar o mesmo `pack.toml` e `index.toml` da release do cliente. Instale o NeoForge 21.1.250 com Minecraft 1.21.1 e aplique o pack em uma pasta separada da instância do cliente.
 
+Create: Colony Logistics é distribuído pelo CDN oficial ForgeCDN com URL e SHA-1
+fixos em `mods/cclogistics.pw.toml`; não é necessário baixar o JAR manualmente.
+O metadata também preserva o projeto/file-id CurseForge para rastreabilidade.
+
 Antes de criar o mundo persistente:
 
 1. Inicie uma instalação limpa.
