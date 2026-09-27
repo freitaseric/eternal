@@ -1,18 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "README.md"
-hash = "2fb330eb0d608f9c6231e5e4643d56ddae8678f1b82312d8c7bb23eaba135b23"
-
-[[files]]
-file = "docs/ARCHITECTURE.md"
-hash = "e1a0ff3296d1b1e7cda4010261e55c3a7686e57141aa80d030c77980969f7744"
-
-[[files]]
-file = "docs/TESTING.md"
-hash = "bd0661877978e053b19307b286d3d74935dc71d48d165812eed44cb0907b68d2"
-
-[[files]]
 file = "kubejs/server_scripts/00_eternal.js"
 hash = "db669a7285965451509d93be370b3e6c27c3672c4ae2a833641561bd08d9de65"
 
